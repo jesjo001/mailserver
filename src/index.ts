@@ -24,6 +24,7 @@ app.use(cors({
     process.env.FRONTEND_URL || 'http://localhost:3000',
     'https://id-preview--643071ec-cc1b-467d-9e85-0eb62d742294.lovable.app',
     'https://preview--inbox-swift-mail.lovable.app',
+    'https://inbox-swift-mail.onrender.com',
     'http://localhost:8080'
   ]
 }));
